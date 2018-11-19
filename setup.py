@@ -53,7 +53,7 @@ def run_setup(with_binary=True, test_xgboost=True, test_lightgbm=True):
         tests_require = ['nose']
 
     setup(
-        name='shap',
+        name='shap_exp',
         version=find_version("shap", "__init__.py"),
         description='A unified approach to explain the output of any machine learning model.',
         long_description="SHAP (SHapley Additive exPlanations) is a unified approach to explain the output of " + \
