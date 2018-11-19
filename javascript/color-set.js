@@ -7,6 +7,7 @@ export default {
     DrDb: ["#B82E2E", "#316395"],
     LpLb: ["#994499", "#22AA99"],
     YlDp: ["#AAAA11", "#6633CC"],
+	GrGr: ["#CFCFCF", "#8B8B8B"],
     OrId: ["#E67300", "#3E0099"]
   },
   gray: "#777"
